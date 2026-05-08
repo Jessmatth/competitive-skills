@@ -2,7 +2,7 @@
 
 Three Claude Code skills that turn 30 minutes of research into the assets a PMM-of-one actually needs: a prospect-facing comparison graphic, an internal battle card, and a recurring competitor intel report.
 
-Two of the three skills (`competitive-comparison-graphic` and `battle-card`) were written by [Jess Matthews](https://github.com/Jessmatth) while running customer development for [Echo](https://echo.ai), a competitive intelligence agent for sales-led B2B SaaS. The third (`competitor-intel`) is adapted from the open-source Goose Skills project. Free to use, fork, and remix.
+Two of the three skills (`competitive-comparison-graphic` and `battle-card`) were written by [Jess Matthews](https://github.com/Jessmatth) while running customer development for Echo, a competitive intelligence agent for sales-led B2B SaaS. The third (`competitor-intel`) is adapted from the open-source Goose Skills project. Free to use, fork, and remix.
 
 ---
 
