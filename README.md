@@ -2,7 +2,7 @@
 
 Three Claude Code skills that turn 30 minutes of research into the assets a PMM-of-one actually needs: a prospect-facing comparison graphic, an internal battle card, and a recurring competitor intel report.
 
-Built by [Jess Matthews](https://github.com/Jessmatth) while running customer development for [Echo](https://echo.ai), a competitive intelligence agent for sales-led B2B SaaS. Free to use, fork, and remix.
+Two of the three skills (`competitive-comparison-graphic` and `battle-card`) were written by [Jess Matthews](https://github.com/Jessmatth) while running customer development for [Echo](https://echo.ai), a competitive intelligence agent for sales-led B2B SaaS. The third (`competitor-intel`) is adapted from the open-source Goose Skills project. Free to use, fork, and remix.
 
 ---
 
@@ -103,8 +103,9 @@ The competitor-intel skill is more autonomous. Give it 2-5 competitor names and 
 
 ## Credits
 
-- **`competitor-intel`** — adapted from [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) (`skills/composites/competitor-intel`).
-- **`competitive-comparison-graphic`** and **`battle-card`** — packaged from skill bundles. Original authors not identified in the bundle metadata; if you recognize them, open an issue and I'll add credit.
+- **`competitive-comparison-graphic`** — written by Jess Matthews (2026).
+- **`battle-card`** — written by Jess Matthews (2026).
+- **`competitor-intel`** — adapted from [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) (`skills/composites/competitor-intel`), MIT-licensed.
 
 ---
 
